@@ -5,7 +5,7 @@ from lxml.html import fromstring
 from multiprocessing.dummy import Pool as ThreadPool
 
 
-class Toutiao:
+class Toutiao(object):
     def __init__(self):
         self.url = 'https://toutiao.io/'
         self.user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
