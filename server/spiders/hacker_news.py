@@ -5,7 +5,7 @@ from lxml.html import fromstring
 from multiprocessing.dummy import Pool as ThreadPool
 
 
-class HackerNews:
+class HackerNews(object):
     def __init__(self):
         self.url = 'https://news.ycombinator.com/'
         self.user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
