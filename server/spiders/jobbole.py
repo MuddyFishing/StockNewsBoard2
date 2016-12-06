@@ -5,7 +5,7 @@ from lxml.html import fromstring
 from multiprocessing.dummy import Pool as ThreadPool
 
 
-class Jobbole:
+class Jobbole(object):
     def __init__(self):
         self.url = 'http://top.jobbole.com/?sort=latest'
         self.user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
