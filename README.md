@@ -12,7 +12,7 @@
 
 目前项目已经实现了基本功能，界面大概如下：
 
-![home](https://ooo.0o0.ooo/2016/12/03/5842c5876d8a2.png)
+![home](https://ooo.0o0.ooo/2017/01/05/586e54f3efff0.png)
 
 # Installation
 
