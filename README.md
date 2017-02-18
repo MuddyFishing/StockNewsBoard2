@@ -2,6 +2,11 @@
 
 # React News Board
 
+![Build: Passing](https://img.shields.io/badge/build-passing-brightgreen.svg)
+[![License: GPLv2](https://img.shields.io/badge/license-GPLv2-brightgreen.svg)](https://raw.githubusercontent.com/ethan-funny/React-News-Board/master/LICENSE)
+[![Analytics](https://ga-beacon.appspot.com/UA-62960961-2/react-news-board/readme)](https://github.com/igrigorik/ga-beacon)
+
+
 这是一个**信息聚合阅读**的项目，采用 Flask + React + Redux 的技术栈：
 
 - Flask 用于在后台提供 api 服务
