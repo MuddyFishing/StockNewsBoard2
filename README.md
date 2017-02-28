@@ -133,7 +133,7 @@ $ fab deploy
 [GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
 
-[0]: https://funhacks.net/2016/12/06/flask_react_news/
+[0]: http://funhacks.net/2016/12/06/flask_react_news/
 [1]: http://pythonguidecn.readthedocs.io/zh/latest/dev/virtualenvs.html
 [2]: https://www.nginx.com/
 [3]: http://gunicorn.org/
