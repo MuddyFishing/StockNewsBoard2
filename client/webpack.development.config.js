@@ -62,7 +62,7 @@ module.exports = {
       template: './index.html'
     }),
     new OpenBrowserPlugin({
-      url: 'http://localhost:8080'
+      url: 'http://localhost:9901'
     })
   ]
 };
